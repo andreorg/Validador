@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #007BFF;
+}
+
+.container-md{
+    
+    max-width: 650px;
+    margin-top: 16%;
+    background-color: #efefef;
+}
+
+h1{
+    text-align: center;
+}
